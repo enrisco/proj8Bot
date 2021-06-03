@@ -1,0 +1,7 @@
+﻿Desinstalando o assembly 'C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Release\8Bot.exe'.
+Parâmetros afetados são:
+   assemblypath = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Release\8Bot.exe
+   logfile = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Release\8Bot.InstallLog
+Removendo a origem do EventLog 8Bot.
+Serviço 8Bot está sendo removido do sistema...
+Serviço 8Bot foi removido com êxito do sistema.

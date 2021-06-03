@@ -1,0 +1,432 @@
+﻿Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Tentativa de parar o serviço Service1.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Tentativa de parar o serviço Service1.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Tentativa de parar o serviço Service1.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Ocorreu uma exceção no manipulador de eventos OnAfterInstall de _8Bot.ProjectInstaller.
+System.InvalidCastException: Não é possível converter um objeto do tipo '_8Bot.ProjectInstaller' no tipo 'System.ServiceProcess.ServiceInstaller'.
+Revertendo o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.InstallLog
+   assemblypath = C:\Users\yskaimer\source\repos\8Bot\bin\Debug\8Bot.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Uninstalling assembly 'C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe
+   logfile = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.InstallLog
+Removing EventLog source 8Bot.
+Service 8Bot is being removed from the system...
+Service 8Bot was successfully removed from the system.

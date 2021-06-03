@@ -1,0 +1,14 @@
+﻿Installing assembly 'C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe'.
+Affected parameters are:
+   assemblypath = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe
+   logfile = install.log
+Installing service 8Bot...
+Service 8Bot has been successfully installed.
+Creating EventLog source 8Bot in log Application...
+See the contents of the log file for the C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe assembly's progress.
+The file is located at install.log.
+Committing assembly 'C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = install.log
+   assemblypath = C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot.exe

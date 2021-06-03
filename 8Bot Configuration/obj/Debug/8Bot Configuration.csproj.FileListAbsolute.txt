@@ -1,0 +1,14 @@
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\_8Bot_Configuration.frmConfig.resources
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\_8Bot_Configuration.Properties.Resources.resources
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\8Bot Configuration.csproj.GenerateResource.cache
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\8Bot Configuration.csproj.CoreCompileInputs.cache
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot Configuration.exe.config
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot Configuration.exe
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\bin\Debug\8Bot Configuration.pdb
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\8Bot Configuration.exe
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\8Bot Configuration.pdb
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\_8Bot_Configuration.View.uscWelcome.resources
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\_8Bot_Configuration.View.UscInstall.resources
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\_8Bot_Configuration.View.UscFinally.resources
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\_8Bot_Configuration.View.UscUninstall.resources
+C:\Users\yskaimer\Desktop\Coisas\Projetos\Programacao\Visual Studio\8Bot Configuration\obj\Debug\8Bot Configuration.csprojAssemblyReference.cache
